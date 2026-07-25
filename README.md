@@ -1,2 +1,2 @@
 # research
-Research done out of boredom
+아무거나 연구
